@@ -11,7 +11,7 @@
 <h1 align="center">🌟  ABOUT THIS REPOSITORY 🌟 </h1>
 
 <p align="center">
-      <a href="https://ibb.co/ZpFvgfMx"><img src="https://i.ibb.co/tTvn2HJD/Oracle.jpg" alt="Oracle" border="0"></a>
+    <a href="https://ibb.co/VcVcwT8D"><img src="https://i.ibb.co/fzMzDH7t/e-Certificate.jpg" alt="e-Certificate" border="0"></a>
 </p>
 
 💡 **_Key things Learn_**
